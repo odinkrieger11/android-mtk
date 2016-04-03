@@ -487,4 +487,6 @@
   <project path="vendor/omni" name="android_vendor_omni" remote="omnirom" revision="android-6.0" />
   <project path="packages/apps/MonthCalendarWidget" name="android_packages_apps_MonthCalendarWidget" remote="omnirom" revision="android-6.0" />
 
+  <project path="device/huawei/g750t01" name="ferhung2013/omnirom_device_huawei_g750t01" revision="android-6.0" />
+  <project path="vendor/huawei/g750t01" name="ferhung2013/omnirom_vendor_huawei_g750t01" revision="android-6.0" />
 </manifest>
