@@ -17,6 +17,9 @@
 
   <remote  name="omnirom-mtk"
            fetch="https://github.com/omnirom-mtk" />
+  
+  <remote  name="odinkrieger11"
+           fetch="https://github.com/odinkrieger11" />         
 
 
   <default revision="refs/tags/android-6.0.1_r24"
